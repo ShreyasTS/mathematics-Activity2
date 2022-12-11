@@ -1,4 +1,5 @@
-# mathematics-Activity2 (find the truth values of the conjunction, disjunction, exclusive or, conditional statement and bidirectional of these propositions)
+# mathematics-Activity2 
+#(find the truth values of the conjunction, disjunction, exclusive or, conditional statement and bidirectional of these propositions)
 To run the file simply enter the following in command prompt  
 
 ```
